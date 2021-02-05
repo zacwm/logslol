@@ -7,7 +7,7 @@ logslol is just a simple cache based off a name for colours and also saves logs 
 ## Installing
 It's pretty simple! :)
 ```js
-npm install logslol --save
+npm install @zacimac/logslol
 ```
 
 ## Example usages

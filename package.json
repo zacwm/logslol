@@ -20,6 +20,9 @@
     "url": "https://github.com/zacimac/logslol/issues"
   },
   "homepage": "https://github.com/zacimac/logslol#readme",
+  "publishConfig": { 
+    "registry":"https://npm.pkg.github.com"
+  },
   "dependencies": {
     "chalk": "^4.1.0",
     "fs": "0.0.1-security",

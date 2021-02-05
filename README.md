@@ -4,6 +4,12 @@ log stuff that i use often with my projects, so i made it a package instead. i d
 ## Description
 logslol is just a simple cache based off a name for colours and also saves logs to a text file.
 
+## Installing
+It's pretty simple! :)
+```js
+npm install logslol --save
+```
+
 ## Example usages
 
 ### Simple

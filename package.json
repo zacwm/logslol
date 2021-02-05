@@ -1,5 +1,5 @@
 {
-  "name": "logslol",
+  "name": "@zacimac/logslol",
   "version": "1.0.0",
   "description": "Some log stuff that I often use turned into a package.",
   "main": "index.js",
@@ -20,9 +20,6 @@
     "url": "https://github.com/zacimac/logslol/issues"
   },
   "homepage": "https://github.com/zacimac/logslol#readme",
-  "publishConfig": { 
-    "registry":"https://npm.pkg.github.com"
-  },
   "dependencies": {
     "chalk": "^4.1.0",
     "fs": "0.0.1-security",
